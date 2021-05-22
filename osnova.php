@@ -10,14 +10,11 @@
   <link href="https://fonts.googleapis.com/css2?family=Jura&display=swap" rel="stylesheet">
   <link rel="icon" href="img/2.png" type="image/x-icon">
 
-</head>
-
 <header class="header">
 
 <div class="content">
 <div class="random"><span class="nbr ltr">0</span><span class="nbr ltr">0</span><span class="nbr ltr">0</span><span class="nbr ltr">0</span></div>
   </div>
-</div>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js'></script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 
@@ -31,5 +28,3 @@
   <li><div data-info="Возможные команды для ввода: STAT MB, STAT CCG, STAT SSP"><a href="4/oborudovanie.php">Просмотр оборудования</a></div></li>
   <li><div data-info="Возможные команды для ввода: DISP ALARM, STAT CCG, STAT SSP"><a href="5/avariya.php">Просмотр за аварией</a></div></li>
 </ul>
-</header>
-</html>
