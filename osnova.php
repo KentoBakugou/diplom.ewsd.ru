@@ -31,9 +31,5 @@
   <li><div data-info="Возможные команды для ввода: STAT MB, STAT CCG, STAT SSP"><a href="4/oborudovanie.php">Просмотр оборудования</a></div></li>
   <li><div data-info="Возможные команды для ввода: DISP ALARM, STAT CCG, STAT SSP"><a href="5/avariya.php">Просмотр за аварией</a></div></li>
 </ul>
-</body>
 </header>
-
-</div>
-
 </html>
