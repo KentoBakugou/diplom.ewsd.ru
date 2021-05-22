@@ -1,1 +1,1 @@
-diplom.ewsd.ru
+ewsdiplom
