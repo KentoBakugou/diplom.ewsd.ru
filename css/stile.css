@@ -1,0 +1,84 @@
+body {
+  
+  font-family: 'Jura', sans-serif;
+  font-size: 30pt;
+  background-image: url(/img/1.png);
+  background-size: cover;
+  }
+
+a {
+color:#000;
+text-decoration:none
+}
+
+a:active {
+color:#000;
+text-decoration:none
+}
+
+a:visited {
+color:#000;
+text-decoration:none
+}
+
+a:hover {
+color:#ffbacd;
+text-decoration: underline
+} 
+
+div {
+  display: inline-block;
+  margin: 0 40px;
+  position: relative;
+}
+
+div:hover::after {
+content: attr(data-info);
+  position: absolute;
+  width: 700px;
+  padding: 15px 10px;
+  bottom: 100%;
+  left: 70%;
+  margin-left: -90px;
+  border-radius: 7px;
+  background-color: #B7BEE0;
+  text-align: center;
+  color: #000;
+  cursor: default;
+}
+
+.header {
+margin-top: 100px;
+margin-bottom: 50px;
+display: flex;
+text-align: justify;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+
+.navbar {
+margin-top: 100px;
+padding-right: 650px;
+list-style-type: none;
+}
+
+.content {
+margin-left: 350px;
+margin-top: -50px;
+font-size: 150%;
+font-weight: 900;
+font-variant: small-caps;
+}
+
+.random {
+margin-left: 350px;
+margin-top: -50px;
+font-size: 150%;
+font-weight: 900;
+font-variant: small-caps;	
+}
+
+.text{
+margin-top: 50px;
+}
