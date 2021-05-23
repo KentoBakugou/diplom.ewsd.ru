@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Jura&display=swap" rel="stylesheet">
   <link rel="icon" href="img/2.png" type="image/x-icon">
-
+  </head>
 <header class="header">
 
 <div class="content">
@@ -28,3 +28,4 @@
   <li><div data-info="Возможные команды для ввода: STAT MB, STAT CCG, STAT SSP"><a href="4/oborudovanie.php">Просмотр оборудования</a></div></li>
   <li><div data-info="Возможные команды для ввода: DISP ALARM, STAT CCG, STAT SSP"><a href="5/avariya.php">Просмотр за аварией</a></div></li>
 </ul>
+  </html>
